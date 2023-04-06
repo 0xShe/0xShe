@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello GitHub  👋
 
-<!--
-**0xShe/0xShe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm 0xShe
+- ⛅ 我是一名网络安全从业者。
+- ⛅ 很早就开始学习网络安全技术，纯自学（所以到现在还是个菜鸡）
+- ⛅ 一路从明小子、阿D过来的，从一名脚本小子蜕变成脚本小伙子
+- ⛅ 一切源于兴趣，从兴趣到生活，从兴趣到职业，祖师爷赏饭吃🍜。
+- 📧 0xShe@t00ls.net
+
+### 关于0xShe🔰网络安全导航
+- 🍺 https://sbbbb.cn/ 
+- 🍺 提供了网络安全日常所需的网站合集，安全导航,网络安全,渗透测试,SRC,CTF,靶场,漏洞,语言,安全工具,编码解密。
+- 🍺 高效渗透计划：征集各种关于高效渗透的工具思路或想法（Web工具/谷歌插件）发送到我的Email。
+
+### 技术栈
+- 💻 渗透测试
+- 🌐 代码审计
+- 🔧 安全开发
+- 🔰 红蓝对抗
+- 🍟 吃饭睡觉
+
+
+
+***不忘初心🔰网为民安***
