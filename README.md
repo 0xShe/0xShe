@@ -36,6 +36,10 @@
 - 🔰 红蓝对抗
 - 🍟 吃饭睡觉
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
 
 ***不忘初心🔰网为民安***
