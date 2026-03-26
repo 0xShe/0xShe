@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=0xShe&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a00,100:00ff41&height=240&section=header&text=0xShe&fontSize=85&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%5B+SYSTEM+ONLINE+%5D&descAlignY=65&descColor=39d353" width="100%"/>
 </div>
 
 <div align="center">
