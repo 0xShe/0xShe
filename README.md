@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krishnanand/matrix-rain/master/matrix.svg" width="100%"/>
+  <<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=300&lines=0xShe;Security+Researcher;Red+Team+Operator;Code+Auditor" />
 </div>
 
 <div align="center">
