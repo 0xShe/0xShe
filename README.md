@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=300&lines=0xShe;Security+Researcher;Red+Team+Operator;Code+Auditor" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a00,70:003300,100:00ff41&height=260&section=header&text=0xShe&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Red%20Team%20%7C%20Code%20Auditor&descAlignY=65&descColor=39d353" width="100%"/>
 </div>
 
 <div align="center">
