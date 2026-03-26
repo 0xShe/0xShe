@@ -113,7 +113,7 @@ export MOTTO="不忘初心 🔰 网为民安"
 
 ---
 
-## `> 贪吃蛇`
+## `> cat Flag.txt`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
@@ -126,5 +126,5 @@ export MOTTO="不忘初心 🔰 网为民安"
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ff41,100:0d0d0d&height=80&section=footer"/>
+  
 </div>
