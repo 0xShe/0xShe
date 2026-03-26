@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=220&section=header&text=0xShe&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%3E_%20Security%20Researcher%20%7C%20Red%20Team%20%7C%20Code%20Auditor&descAlignY=62&descAlign=50&descSize=16&descColor=39d353" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d0d,100:00ff41&height=200&section=header&text=0xShe&fontSize=88&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Team%20%7C%20Code%20Auditor&descAlignY=58&descAlign=50&descSize=15&descColor=39d353" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xShe&label=VISITORS&color=00ff41&style=flat-square&labelColor=0d0d0d" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=0xShe&label=VISITORS&color=00ff41&style=flat-square&labelColor=0d0d0d"/>
   &nbsp;&nbsp;
   <a href="mailto:0xShe@t00ls.net">
     <img src="https://img.shields.io/badge/📡_CONTACT-0xShe%40t00ls.net-00ff41?style=flat-square&labelColor=0d0d0d&color=00ff41"/>
@@ -19,8 +19,6 @@
     <img src="https://img.shields.io/badge/🌐_BLOG-sbbbb.cn-00ff41?style=flat-square&labelColor=0d0d0d&color=00ff41"/>
   </a>
 </div>
-
-<br/>
 
 ---
 
@@ -32,10 +30,10 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║  HANDLE   : 0xShe                                            ║
 ║  ROLE     : Network Security Practitioner                    ║
-║  DOMAIN   : Pentest / Code Audit / Red Team / SecDev         ║
+║  DOMAIN   : Pentest / Code Audit / Red Team / SecDev        ║
 ║  MOTTO    : 聚合网安资源 · 构建安全生态                       ║
-║  CONTACT  : 0xShe@t00ls.net                                  ║
-║  STATUS   : [ ██████████ ] ONLINE                            ║
+║  CONTACT  : 0xShe@t00ls.net                                 ║
+║  STATUS   : [ ██████████ ] ONLINE                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -117,7 +115,7 @@ export MOTTO="不忘初心 🔰 网为民安"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xShe&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=39d353&dates=39d353&currStreakNum=00ff41&sideNums=39d353" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xShe&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=39d353&dates=39d353&currStreakNum=00ff41&sideNums=39d353" width="60%" alt="streak"/>
 </div>
 
 ---
@@ -137,26 +135,19 @@ export MOTTO="不忘初心 🔰 网为民安"
 
 ---
 
-## `> tail -f contribution.log`
+## `> python snake.py --user 0xShe`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShe&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39d353&hide_border=true&area=true&area_color=00ff4120" alt="activity graph" width="100%"/>
+  <img src="https://github.com/0xShe/0xShe/raw/output/snake-green.svg" alt="Snake Game" width="80%"/>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/snake-game-contrib-00ff41?style=for-the-badge&labelColor=0d0d0d&color=00ff41"/>
+  <img src="https://img.shields.io/badge/ctrl%2Bz-to-stop-00ff41?style=for-the-badge&labelColor=0d0d0d&color=00ff41"/>
+</p>
 
 ---
 
 <div align="center">
-
-```
-[ SESSION TERMINATED ]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   不忘初心 🔰 网为民安
-   聚合网安资源 · 构建安全生态
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=120&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ff41,100:0d0d0d&height=100&section=footer&reversal=false" width="100%"/>
 </div>
