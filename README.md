@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/alii/alii/main/matrix.gif" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=800&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=700&height=50&lines=%5BSYSTEM+BOOT%5D+Initializing+0xShe...;%3E+Security+Researcher+%2F+Code+Auditor;%3E+Red+%26+Blue+Team+Operator;%3E+Build+Security+Ecosystem;%5BACCESS+GRANTED%5D" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=0xShe&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=40"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=650&height=45&lines=%3E+Security+Researcher;%3E+Code+Auditor;%3E+Red+%26+Blue+Team;%3E+Build+Security+Ecosystem" />
 </div>
 
 <br/>
