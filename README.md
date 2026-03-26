@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a00,100:00ff41&height=240&section=header&text=0xShe&fontSize=85&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%5B+SYSTEM+ONLINE+%5D&descAlignY=65&descColor=39d353" width="100%"/>
+  <img src="https://raw.githubusercontent.com/krishnanand/matrix-rain/master/matrix.svg" width="100%"/>
 </div>
 
 <div align="center">
