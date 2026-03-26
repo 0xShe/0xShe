@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=240&section=header&text=0xShe&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Red%20Team%20%7C%20Code%20Auditor&descAlignY=60&descAlign=50&descSize=16&descColor=39d353" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/alii/alii/main/matrix.gif" width="100%" alt="matrix rain"/>
 </div>
 
@@ -30,10 +34,10 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║  HANDLE   : 0xShe                                            ║
 ║  ROLE     : Network Security Practitioner                    ║
-║  DOMAIN   : Pentest / Code Audit / Red Team / SecDev         ║
+║  DOMAIN   : Pentest / Code Audit / Red Team / SecDev        ║
 ║  MOTTO    : 聚合网安资源 · 构建安全生态                       ║
-║  CONTACT  : 0xShe@t00ls.net                                  ║
-║  STATUS   : [ ██████████ ] ONLINE                            ║
+║  CONTACT  : 0xShe@t00ls.net                                 ║
+║  STATUS   : [ ██████████ ] ONLINE                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
