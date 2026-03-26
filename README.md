@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d0d,100:00ff41&height=200&section=header&text=0xShe&fontSize=88&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Team%20%7C%20Code%20Auditor&descAlignY=58&descAlign=50&descSize=15&descColor=39d353" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alii/alii/main/matrix.gif" width="100%" alt="matrix rain"/>
 </div>
 
 <div align="center">
@@ -30,10 +30,10 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║  HANDLE   : 0xShe                                            ║
 ║  ROLE     : Network Security Practitioner                    ║
-║  DOMAIN   : Pentest / Code Audit / Red Team / SecDev        ║
+║  DOMAIN   : Pentest / Code Audit / Red Team / SecDev         ║
 ║  MOTTO    : 聚合网安资源 · 构建安全生态                       ║
-║  CONTACT  : 0xShe@t00ls.net                                 ║
-║  STATUS   : [ ██████████ ] ONLINE                           ║
+║  CONTACT  : 0xShe@t00ls.net                                  ║
+║  STATUS   : [ ██████████ ] ONLINE                            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -149,5 +149,5 @@ export MOTTO="不忘初心 🔰 网为民安"
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ff41,100:0d0d0d&height=100&section=footer&reversal=false" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ff41,100:0d0d0d&height=80&section=footer" width="100%"/>
 </div>
