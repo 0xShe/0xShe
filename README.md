@@ -106,7 +106,7 @@ export MOTTO="不忘初心 🔰 网为民安"
 ## `> ./github-stats.sh`
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=0xShe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d"/>
+<img height="170em" src="https://camo.githubusercontent.com/f76997f20e57b686eb7b9053b812d3ea3a28026aca13444529597ff32045f02f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d3078536865266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b26686964655f626f726465723d747275652662675f636f6c6f723d306430643064" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xShe&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0d0d0d" style="max-width: 100%;">
 
 
 ---
