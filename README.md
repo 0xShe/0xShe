@@ -107,9 +107,7 @@ export MOTTO="不忘初心 🔰 网为民安"
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=0xShe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xShe&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d"/>
-</div>
+
 
 ---
 
